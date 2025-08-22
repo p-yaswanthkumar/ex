@@ -24,7 +24,7 @@
 
 .dark .elder-hero {
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-        url('C:\Users\DELL\Desktop\funds\charity\public\Images\elderly-care.jpg') center/cover;
+        url(/Images/elderly-care.jpg) center/cover;
 }
 
 .hero-content h1 {

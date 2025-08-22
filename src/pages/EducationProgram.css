@@ -257,7 +257,7 @@ h2 {
   height: 400px;
   display: flex;
   align-items: center;
-  background: url('C:\Users\DELL\Desktop\funds\charity\public\Images\edu-pro.jpg') center/cover fixed;
+  background: url(/Images/edu-pro.jpg) center/cover fixed;
   color: white;
   text-align: center;
   overflow: hidden;

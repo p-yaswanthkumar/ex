@@ -12,7 +12,7 @@
 
 /* Section 1: Hero Banner */
 .empowerment-hero {
-    background-image: url(/images/.woman-back.jpg);
+    background-image: url(/Images/woman-back.jpg);
   opacity: 0.7;
     height: 80vh;
     display: flex;
@@ -25,7 +25,7 @@
 
 .dark .empowerment-hero {
     background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-        url('C:\Users\DELL\Desktop\funds\charity\public\Images\women-back.jpg') center/cover;
+        url(/Images/women-back.jpg) center/cover;
 }
 
 .hero-content-women h1 {

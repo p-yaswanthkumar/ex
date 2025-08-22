@@ -196,7 +196,7 @@
   height: auto;
   min-height: 500px;
   color: #fff;
-  background: url('C:\Users\DELL\Desktop\funds\charity\public\Images\free-food.jpg') center/cover no-repeat;
+  background: url(/Images/free-food.jpg) center/cover no-repeat;
 }
 
 .food-distribution-overview.with-bg .overlay {
